@@ -3,7 +3,7 @@ description: A website with a blog
 header_text: ""
 footer_text: Copyright 2020 Booze Blog
 header_feature_image: ../uploads/website-heading-72x.png
-bannerheight: 40vmax
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
