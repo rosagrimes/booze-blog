@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Booze Blog
 header_feature_image: ../uploads/website-heading-300x.png
 bannerheight: 20vmax
 logo: ../uploads/logos-300x.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
 upzoom: true
