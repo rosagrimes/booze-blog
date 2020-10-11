@@ -1,9 +1,9 @@
-title: Your name or name of site
+title: Booze Blog
 description: A website with a blog
-header_text: My Dream Blog
+header_text: ""
 footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/artboard-1-72x-100.jpg
-bannerheight: 20vmax
+header_feature_image: ../uploads/website-heading-72x.png
+bannerheight: 50vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
