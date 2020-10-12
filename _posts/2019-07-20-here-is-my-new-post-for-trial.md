@@ -6,9 +6,7 @@ header_feature_image: ../uploads/scott-warman-h4aglo55tta-unsplash.jpg
 caption: ""
 comments: true
 ---
-Does typography determine quality?
-
-
+Does type determine quality?
 
 Being that there is hundreds of brands and even more variants, it is hard for wine to stand out. With the main indicator of quality being the price tag, to what extent does typography and branding influence the purchase?
 
