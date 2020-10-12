@@ -1,11 +1,11 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
+title: Booze Blog
+description: A blog about alcohol brands and fonts.
+header_text: ""
+footer_text: Copyright 2020 Booze Blog
+header_feature_image: ../uploads/website-heading-300x.png
+bannerheight: 20vmax
+logo: ../uploads/logos-300x.png
+favicon: ../uploads/android-chrome-512x512.png
 gridlayout: false
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
-upzoom: true
 fixednavbar: false
+upzoom: true
