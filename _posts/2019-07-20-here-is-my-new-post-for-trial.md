@@ -1,20 +1,14 @@
 ---
 layout: post
-title: WINE
+title: Determining Quality of Wine
 date: 2020-10-10T16:50:00.000Z
 header_feature_image: ../uploads/scott-warman-h4aglo55tta-unsplash.jpg
 caption: ""
 comments: true
 ---
-
 This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
-
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
-
-
-![Here is a book](../uploads/pages.jpg)
+![Most Expensive Red Wine From Tesco - Contino Rioja Reserva - £25](../uploads/expensive-wine.jpg)
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 
@@ -26,7 +20,7 @@ Of recommend residence education be on difficult repulsive offending. Judge view
 
 ## Here is a an image
 
-![Wooden Type](../uploads/log.jpg)
+![Cheapest Red Wine From Tesco - Silver Bay Point Red - £3.25](../uploads/cheapest-wine.jpeg)
 
 She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
 
