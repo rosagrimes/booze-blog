@@ -6,6 +6,6 @@ header_feature_image: ../uploads/website-heading-300x.png
 bannerheight: 20vmax
 logo: ../uploads/logos-300x.png
 favicon: ../uploads/android-chrome-512x512.png
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
