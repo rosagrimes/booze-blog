@@ -6,9 +6,15 @@ header_feature_image: ../uploads/scott-warman-h4aglo55tta-unsplash.jpg
 caption: ""
 comments: true
 ---
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+Does typography determine quality?
+
+
+
+Being that there is hundreds of brands and even more variants, it is hard for wine to stand out. With the main indicator of quality being the price tag, to what extent does typography and branding influence the purchase?
 
 ![Most Expensive Red Wine From Tesco - Contino Rioja Reserva - £25](../uploads/expensive-wine.jpg)
+
+![Cheapest Red Wine From Tesco - Silver Bay Point Red - £3.25](../uploads/cheapest-wine.jpeg)
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 
@@ -17,10 +23,6 @@ It sportsman earnestly ye preserved an on. Moment led family sooner cannot her w
 Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
 
 Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
-
-## Here is a an image
-
-![Cheapest Red Wine From Tesco - Silver Bay Point Red - £3.25](../uploads/cheapest-wine.jpeg)
 
 She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
 
