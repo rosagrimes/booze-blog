@@ -4,7 +4,7 @@ title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/website-heading-300x.png
+header_feature_image: ../uploads/brandy-turner-nz37ifip5vm-unsplash.jpg
 published: true
 tags: null
 description: null
