@@ -5,12 +5,12 @@ date: 2020-10-13T00:06:56.386Z
 header_feature_image: ../uploads/stella.jpg
 comments: true
 ---
-Evolution of alcohol fonts over time.
+Over time alcohol brands evolve their image to suit modern trends and designs; a key component of this image is their typography.
 
-![](../uploads/bacardi-logo-history-1.jpg)
+![Bacardi Brand Evolution](../uploads/bacardi-logo-history-1.jpg)
 
-![](../uploads/bud-light-logo-history.jpg)
+![Bud Light Brand Evolution](../uploads/bud-light-logo-history.jpg)
 
-![](../uploads/budweiser-logo-history.jpg)
+![Budweiser Brand Evolution](../uploads/budweiser-logo-history.jpg)
 
-![](../uploads/guinness-logo-history.jpg)
+![Guinness Brand Evolution](../uploads/guinness-logo-history.jpg)
