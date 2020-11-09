@@ -2,9 +2,9 @@ title: Booze Blog
 description: A blog about alcohol brands and fonts.
 header_text: ""
 footer_text: Copyright 2020 Booze Blog
-header_feature_image: ../uploads/website-heading-300x.png
+header_feature_image: ../uploads/banner-image-3.png
 bannerheight: 20vmax
-logo: ../uploads/logos-300x.png
+logo: ../uploads/bb-3-.png
 favicon: ../uploads/android-chrome-512x512.png
 gridlayout: true
 fixednavbar: false
