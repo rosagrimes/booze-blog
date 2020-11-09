@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: "   "
 subtitle: ""
 permalink: /about this blog/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/brandy-turner-nz37ifip5vm-unsplash.jpg
+header_feature_image: ../uploads/banner-image-3.png
 published: true
 tags: null
 description: null
