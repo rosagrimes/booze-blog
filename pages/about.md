@@ -24,4 +24,4 @@ For the logo, I decided to make it bold
 
 ![Favicon Logo](../uploads/android-chrome-512x512.png)
 
-![Banner Image](../uploads/brandy-turner-nz37ifip5vm-unsplash.jpg)
+![Banner Image](../uploads/wine-banner-300x.png)
