@@ -1,0 +1,166 @@
+/* ---- General Styles ---- */
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: "Avenir", "Helvetica Neue", "Arial", sans-serif;
+	font-weight: 400;
+}
+
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 700px;
+	width: 100%;
+	background-image: url("img/rodion-kutsaev-8P-uQaTd8rw-unsplash.jpg");
+	background-size: cover;
+}
+
+/* Profile Picture */
+.profile_picture_circle {
+	padding-top: 150px;
+}
+
+.profile_picture {
+	background-image: url("img/IMG_4846.jpg");
+	background-position: center;
+	width: 160px;
+	height: 160px;
+	border: white 5px solid;
+	border-radius: 50%;
+	background-size: 105%;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: white;
+	text-align: center;
+	font-size: 19px;
+	margin-top: 0px;
+}
+
+/* Social Icons */
+.social_icon {
+	margin: 5px;
+}
+
+.social_icon img {
+	width: 30px;
+}
+
+.social_icon:hover {
+	opacity: 0.5;
+}
+
+
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: white;
+}
+
+.few_things_text {
+	color: #7744D8;
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+
+
+/* ---- Facts ---- */
+/* Main Text */
+.facts {
+	background-color: #D8C7F9;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.facts p {
+	text-align: left;
+	color: #515151;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	max-width: 760px;
+	margin: 80px auto 80px auto;
+	padding: 0 20px 0 20px;
+}
+
+/* Text Highlight Colour */
+.highlight {
+	color: #C32E28;
+	font-weight: 500;
+}
+
+/* Fact Links */
+.fact_link {
+	color: #C32E28;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 3px solid #C32E28;
+	padding: 0px 2px 0px 2px;
+}
+
+.fact_link:hover {
+	color: #EFEFEF;
+	background-color: #C32E28;
+	padding: 0px 2px 0px 2px;
+}
+
+/* Fact Picture */
+.fact_image {
+	max-width: 400px;
+
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+
+/* --- Tell Me About You --- */
+.tell_me_section {
+	background-color: white;
+	width: 100%;
+}
+
+
+/* 'Tell me about you' Box */
+.tell_me_link {
+	text-align: center;
+	color: black;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 130px;
+	padding-top: 30px;
+}
+
+.tell_me_link a {
+	color: #7744D8;
+	text-decoration: none;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.tell_me_link a:hover {
+	color: blue;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
