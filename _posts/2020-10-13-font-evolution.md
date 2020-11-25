@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Typographic Evolution for the Modern Market
-date: 2020-10-13T00:06:56.386Z
+date: 2020-10-17T00:06:56.386Z
 header_feature_image: ../uploads/stella.jpg
 comments: true
 ---
